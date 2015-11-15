@@ -2,6 +2,7 @@ name: Demosite
 favicon: null
 layout_spectrum: 0.11208370700478554
 typography_spectrum: 0.02209291234612465
+title: Demo Title
 cta:
   domain: null
   bucket: null
