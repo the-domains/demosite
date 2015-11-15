@@ -1,0 +1,23 @@
+name: Demosite
+favicon: null
+layout_spectrum: 0.11208370700478554
+typography_spectrum: 0.02209291234612465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6529206538107246
+  lightness: 0.8211787594482303
+  saturation: 0.05886733392253518
+  rhythmicContrast: 0.2343198477756232
+purpose: []
