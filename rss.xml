@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Demo Title]]></title>
+        <description><![CDATA[Demo Title]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 06:36:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Now is the time for all good men.]]></title>
+            <description><![CDATA[<article><h1>Now is the time for all good men.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f46335d2-9b82-46c1-af82-9e3afefc6b1f.jpg"></article>]]></description>
+            <link>undefinednow-is-the-time-for-all-good-men/index.html</link>
+            <guid isPermaLink="false">25b99c21-4080-4643-85b3-c68ca93b26c8</guid>
+            <pubDate>Sun, 15 Nov 2015 06:36:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
